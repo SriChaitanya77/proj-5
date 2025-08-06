@@ -1,8 +1,8 @@
 header{
   height: 50px;
   line-height: 50px;
-  background: #2d3748;
-  color:rgb(253, 253, 253);
+  background: #27fab7;
+  color:rgb(255, 255, 255);
 }
 .logo{
   font-size: 16pt;
@@ -11,9 +11,9 @@ header{
 footer{
   height: 30px;
   line-height: 30px;
-  background: #707a8c;
+  background: #adff6a;
   font-size: 8pt;
-  color:rgb(67, 127, 246);
+  color:rgb(255, 255, 255);
 }
 section{
   height: calc(100% - 100px);

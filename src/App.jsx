@@ -5,7 +5,7 @@ class App extends Component {
     return (
       <>
         <header>
-          <div className='logo'>Grid Demo</div>
+          <div className='logo'>24K Image store</div>
         </header>
         <section>
           <div className='card'>
